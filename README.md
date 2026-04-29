@@ -1,6 +1,6 @@
 
 https://github.com/user-attachments/assets/29b180dc-f3f9-42f4-8a46-a7629be62c54
-# AI Legal Assistant
+# Vidhi: AI Legal Assistant
 
 
 
